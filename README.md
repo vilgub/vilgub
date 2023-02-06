@@ -2,11 +2,7 @@
 <h1 align="center"><b>Hi , I'm Vil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-
-
 <br>
-
-
 
 	
 ##  **About me**
@@ -24,6 +20,39 @@ to make valuable contributions to any project or team I am a part of.
 <br>
 
 
+
+## <b> Projects</b>
+<br>
+<table style="width:100%">
+  <tr>
+    <td>
+      <a href="https://github.com/vilgub/ranking_service">Ranking Service</a>
+      <br>
+      <small>A project to rank different items in a given dataset</small>
+    </td>
+    <td>
+      <a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a>
+      <br>
+      <small>A computer vision project aimed at identifying various signs</small>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/vilgub/vilgub">Uplift modelling</a>
+      <br>
+      <small>...coming soon</small>
+    </td>
+    <td>
+      <a href="https://github.com/vilgub/vilgub">Dynamic Pricing</a>
+      <br>
+      <small>Dynamic pricing model using regression</small>
+    </td>
+  </tr>
+</table>
+
+
+
+<br>
 
 ## <b> Skills</b>
 <br>
@@ -47,42 +76,6 @@ to make valuable contributions to any project or team I am a part of.
 
 
 <br>
-
-
-
-## <b> Projects</b>
-<br>
-<table style="width:100%">
-  <tr>
-    <td>
-      <a href="https://github.com/vilgub/ranking_service">Ranking Service</a>
-      <br>
-      <small>A project to rank different items in a given dataset</small>
-    </td>
-    <td>
-      <a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a>
-      <br>
-      <small>A project to recognize different signs using computer vision techniques</small>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/vilgub/vilgub">Uplift modelling</a>
-      <br>
-      <small>...coming soon</small>
-    </td>
-    <td>
-      <a href="https://github.com/vilgub/vilgub">Dynamic Pricing</a>
-      <br>
-      <small>Dynamic pricing model using regression</small>
-    </td>
-  </tr>
-</table>
-
-
-
-<br>
-
 
 
 ## <b> Links</b>
