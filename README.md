@@ -52,20 +52,33 @@ to make valuable contributions to any project or team I am a part of.
 
 ## <b> Projects</b>
 <br>
-<table align="center">
+<table style="width:100%">
   <tr>
-    <td><a href="https://github.com/vilgub/ranking_service">Ranking Service</a></td>
-    <td><a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a></td>
+    <td>
+      <a href="https://github.com/vilgub/ranking_service">Ranking Service</a>
+      <br>
+      <small>A project to rank different items in a given dataset</small>
+    </td>
+    <td>
+      <a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a>
+      <br>
+      <small>A project to recognize different signs using computer vision techniques</small>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a></td>
-    <td><a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a></td>
-    <td><a href="https://github.com/vilgub/signs-recognition">Signs Recognition</a></td>
+    <td>
+      <a href="https://github.com/vilgub/vilgub">Uplift modelling</a>
+      <br>
+      <small>...coming soon</small>
+    </td>
+    <td>
+      <a href="https://github.com/vilgub/vilgub">Dynamic Pricing</a>
+      <br>
+      <small>A project to recognize different signs using computer vision techniques</small>
+    </td>
   </tr>
 </table>
+
 
 
 <br>
