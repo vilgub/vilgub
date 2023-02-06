@@ -74,7 +74,7 @@ to make valuable contributions to any project or team I am a part of.
     <td>
       <a href="https://github.com/vilgub/vilgub">Dynamic Pricing</a>
       <br>
-      <small>A project to recognize different signs using computer vision techniques</small>
+      <small>Dynamic pricing model using regression</small>
     </td>
   </tr>
 </table>
